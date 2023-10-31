@@ -1,0 +1,17 @@
+.navbar-container{
+    display: flex;
+    align-items: center;
+    height: 4.735rem;
+    width: 100%;
+    padding: 22px 30px;
+    box-sizing: border-box;
+    max-width: 1100px;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 6px 5px -4px;
+}

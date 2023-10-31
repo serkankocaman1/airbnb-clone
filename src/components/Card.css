@@ -1,0 +1,40 @@
+.card-container{
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+    gap: 20px;
+}
+
+.card-top{
+    position: relative;
+}
+
+.card-top p{
+    background-color: #fff;
+    color: #222222;
+    position: absolute;
+    padding: 3px 5px;
+    top: 10px;
+    left: 10px;
+    border-radius: 5px;
+}
+
+.card-top img{
+    border-radius: 15px;
+    width: 352px;
+    height: 470px;
+    object-fit: cover;
+}
+
+.card-bottom{
+    color: #222222;
+}
+
+.card-bottom span{
+    color: #918E9B;
+}
+
+.card-bottom i{
+    color: #FE395C;
+    margin-right: 5px;
+}
